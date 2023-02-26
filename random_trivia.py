@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random
 
 # Define the quiz questions and answers
@@ -67,16 +61,3 @@ def restart():
         print("Party Pooper!")
 
 play_game()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
